@@ -69,5 +69,6 @@ module.exports = {
     all,
     add,
     remove,
-    edit
+    edit,
+    employee
 };
